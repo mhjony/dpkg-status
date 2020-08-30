@@ -13,7 +13,7 @@ In order to run this program, it requires python installed on your computer
 - python 3
 
 # Run
-https://github.com/mhjony/dpkg-status.git <br />
+git clone https://github.com/mhjony/dpkg-status.git <br />
 cd dpkg-status <br />
 python3 analyse.py > index.html <br />
 open index.html
